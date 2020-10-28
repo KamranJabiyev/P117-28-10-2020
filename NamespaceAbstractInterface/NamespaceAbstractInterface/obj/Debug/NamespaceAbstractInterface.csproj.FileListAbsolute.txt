@@ -1,0 +1,6 @@
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\bin\Debug\NamespaceAbstractInterface.exe.config
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\bin\Debug\NamespaceAbstractInterface.exe
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\bin\Debug\NamespaceAbstractInterface.pdb
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\obj\Debug\NamespaceAbstractInterface.csprojAssemblyReference.cache
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\obj\Debug\NamespaceAbstractInterface.exe
+E:\P117\NamespaceAbstractInterface\NamespaceAbstractInterface\obj\Debug\NamespaceAbstractInterface.pdb
